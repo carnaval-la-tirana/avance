@@ -1,42 +1,29 @@
-# Investigación de subtemática y análisis de antecedentes de infografía digital
+# Definición de temática y subtemáticas para una infografía digital grupal
 
-### Clase 12 → 23/05/2022
+###  Clase 11 avance → 16/05/2022
 
-Cada grupo debe presentar el `README.md` del repositorio creado en una organización de Github.
-
-En el `README.md` habrá: 
-
-- una presentación del grupo como un equipo de trabajo, donde cada integrante tiene responsabilidades definidas según sus habilidades.
-- una descripción del tema del curso.
-- una descripción y un avance en la investigación del subtema del grupo.
- 
-- - - - - - - -
-
-#### EJERCICIO
-
-Varias veces hemos referido a trabajos publicados en [SCMP Infographics](https://www.scmp.com/infographic/) y [Reuters Graphics](https://graphics.reuters.com/). En este clases corresponde ir a buscar allí mismo algo de inspiración para su trabajo grupal.
-
-**Para poder inspirarnos, yendo un poco más allá de lo evidente: Cada grupo debe tomar un mínimo de 4 infografías digitales publicadas por los medios recién refereidos. Para presentar cada antecedente debe usar lo [compartido en esta carpeta de repositiorio](https://profesorfaco.github.io/dno075-2022-1/clase-12/). Allí encontrarán varias páginas enlazadas**, donde corresponde: 
-
-1. **presentar un pantallazo** con toda la extensión de la infografía, el que puede obtener de https://www.site-shot.com/ (en browser options active el full-size y, más abajo, cambie la escala al 50%; el resultado puede achicarse un poco más con [TinyPNG](https://tinypng.com/))
-2. **analizar los colores** en uso en la misma infografía (pueden aprovechar el mismo pantallazo, meterlo a Photoshop para transofarlo con un desenfoque exagerado, que haga imposible distinguir más que colores, y con ello puede [extraer un tema con Adobe Color](https://color.adobe.com/es/create/image))
-3. **anotar las tipografías** usadas en la misma infografía digital (si está navegando con Google Chrome, aproveche la extensión [What Font?](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)) 
-
-**En la clase de hoy, el trabajo grupal será evaluado con un máximo de 4 puntos** 
-
-| CRITERIO | PTS.  |
-|:---------|:-----:|
-| Avance en `README.md` | 1 pto. |
-| Selección de 4 antecedentes | 1 pto. |
-| 4 paletas cromáticas | 1 pto. |
-| 8 apuntes sobre tipografías en uso | 1 pto. |
-
-- - - - - - - 
-
-#### TAREA
-
-Volver a revisar en YouTube la ponencia del [Dr. Mario García](http://garciamedia.com/): [Transformando el periodismo para la era del móvil](https://youtu.be/iEB3oILm-qQ?t=1301)
+#### EQUIPO DE TRABAJO
+- **Catalina Harambour**: Ilustrator y svg
+- **Valentina Herrera**: ilustración y estilo de la página
+- **Gaspar López**: Investigación y código y estilos
+- **Karina Reinarz**: Investigación y redacción
+- **Vicente Muñoz**: Código
 
 - - - - - - - -
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-11) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-13) 
+#### TEMA DEL CURSO: CARNAVALES LATINOAMERICANOS
+La realización de  una infografía digital que contemple la tradición de algunos carnavales latinoamericanos, mostrando su origen, su historia, su cultura, su baile y vestimentas.
+
+- Argentina: Carnaval de Gualeguaychú
+- Bolivia: Carnaval de Oruro
+- Chile: La Tirana
+- Brasil: Carnaval de Rio
+- Colombia: Carnaval de Barraquilla
+
+- - - - - - - -
+
+#### TEMA DEL GRUPO: LA FIESTA DE LA TIRANA
+
+El Carnaval de la Tirana o la fiesta de La tirana es el carnaval mas importante de Chile, su origen se remonta a la llegada de Pedro de Valdivia a el territorio ocupado por los Incas, Incas que apresó e hizo esclavos, uno de estos un sacerdote llamado Huillac Huma logro escapar y se refugió junto con otros Incas en los bosques del tamarugal, donde se acento como una resistencia indigena frente al poderío español, donde ella adopta el nombre de la Tirana por sus enemigos. por esas cosas del destino conoció a un portugues misionero llamado don Vasco de Almeyda de quien se enamoró perdidamente y decidió dejar su religión para pasar al cristianismo y así acompañar a su amor. justo cuando ella iba a ser bautizada, es acribillada por flechas dando muerte a ambos. Un dia entre 1540 y 1550 fray Antonio Rondón evangelizador de Tarapacá  dio con el bosque el tamarugal y ara su sorpresa vislumbra en él una cruz cristiana y decide que en ese lugar se edificara una iglesia.
+
+La fiesta de la tirana es con diferencia el carnal nacional que alberga más bailarines que otras celebraciones nacionales y también es la que conserva distintas tradiciones y bailes, ya que año tras año se van agregando más.  
