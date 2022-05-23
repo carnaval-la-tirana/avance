@@ -21,7 +21,7 @@ La realización de  una infografía digital que contemple la tradición de algun
 
 - - - - - - - -
 
-#### TEMA DEL GRUPO: LA FIESTA DE LA TIRANA
+### TEMA DEL GRUPO: LA FIESTA DE LA TIRANA
 
 **ORIGEN**
 
