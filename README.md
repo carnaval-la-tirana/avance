@@ -55,3 +55,5 @@ Los primeros corresponden a bailes antiguos pasados de generación en generació
 #### BIBLIOGRAFÍA
 
 Uribe, J. (1976). *Fiesta de la Tirana de Tarapacá*. Chile: Ediciones Universitarias de Valparaíso.
+Joaquín. (2017). *Conoce la Fiesta de La Tirana, el carnaval más grande de Chile*.
+https://www.denomades.com/blog/conoce-fiesta-la-tirana-carnaval-chile/#:~:text=La%20fiesta%20de%20La%20Tirana%20es%20uno%20de%20las%20celebraciones,Chile%2C%20la%20Virgen%20del%20Carmen.
